@@ -1,0 +1,40 @@
+Cliente;Data Contrato;Status do Contrato; Valor do Contrato ;Carga;Peso (Kg);Tipo de Veículo;Origem;Data de Saída;Situação da Partida;Destino;Data de Chegada;Situação da Chegada
+Livraria Várias Letras;01/03/2019;Encerrado; R$ 869,32 ;Insumos;25;Utilitário Pequeno;MG;05/03/2019;Finalizada - Em Dia;SP;05/03/2019;Finalizada - Em Dia
+Livraria Várias Letras;15/04/2019;Encerrado; R$ 586,32 ;Livros;16;Utilitário Pequeno;MG;20/04/2019;Finalizada - Em Dia;RJ;20/04/2019;Finalizada - Em Dia
+Livraria Várias Letras;20/04/2019;Encerrado; R$ 256,32 ;Livros;9;Utilitário Pequeno;MG;20/04/2019;Finalizada - Em Dia;RJ;20/04/2019;Finalizada - Em Dia
+Livraria Várias Letras;06/10/2019;Encerrado; R$ 726,32 ;Insumos;23;Utilitário Pequeno;MG;10/10/2019;Finalizada - Atrasada;SP;10/10/2019;Finalizada - Atrasada
+Livraria Várias Letras;10/11/2019;Aberto; R$ 452,12 ;Livros;14;Utilitário Pequeno;MG;20/12/2019;Em Aberto - Atrasada;SP;20/12/2019;Em Aberto - Atrasada
+Livraria Várias Letras;11/12/2019;Aberto; R$ 956,32 ;Insumos;28;Utilitário Pequeno;MG;20/12/2019;Em Aberto - Atrasada;SP;20/12/2019;Em Aberto - Atrasada
+Figrorífico Muito Frio;02/04/2019;Encerrado; R$ 2.395,00 ;Carne Congelada;343;Caminhão Frigorífico;MT;12/04/2019;Finalizada - Em Dia;SP;15/04/2019;Finalizada - Em Dia
+Figrorífico Muito Frio;03/05/2019;Encerrado; R$ 1.745,63 ;Carne Congelada;250;Caminhão Frigorífico;MT;10/05/2019;Finalizada - Em Dia;RJ;13/05/2019;Finalizada - Atrasada
+Figrorífico Muito Frio;09/05/2019;Encerrado; R$ 907,73 ;Carne Congelada;130;Caminhão Frigorífico;MT;10/05/2019;Finalizada - Em Dia;RJ;13/05/2019;Finalizada - Atrasada
+Figrorífico Muito Frio;20/05/2019;Encerrado; R$ 1.955,10 ;Carne Congelada;280;Caminhão Frigorífico;MT;22/05/2019;Finalizada - Em Dia;SP;25/05/2019;Finalizada - Em Dia
+Figrorífico Muito Frio;17/07/2019;Encerrado; R$ 1.326,68 ;Carne Congelada;190;Caminhão Frigorífico;MT;20/07/2019;Finalizada - Em Dia;SP;23/07/2019;Finalizada - Em Dia
+Tecnologia Antiga;06/07/2019;Encerrado; R$ 600,00 ;Informática;15;Utilitário Pequeno;AM;07/07/2019;Finalizada - Em Dia;BA;12/07/2019;Finalizada - Em Dia
+Tecnologia Antiga;10/08/2019;Encerrado; R$ 920,00 ;TVs;23;Utilitário Pequeno;AM;16/08/2019;Finalizada - Em Dia;BA;22/07/2019;Finalizada - Atrasada
+Tecnologia Antiga;15/08/2019;Encerrado; R$ 440,00 ;Informática;11;Utilitário Pequeno;AM;16/08/2019;Finalizada - Em Dia;SP;23/08/2019;Finalizada - Atrasada
+Tecnologia Antiga;20/10/2019;Encerrado; R$ 680,00 ;Informática;17;Utilitário Pequeno;AM;22/10/2019;Finalizada - Em Dia;MG;28/10/2019;Finalizada - Em Dia
+Tecnologia Antiga;01/12/2019;Aberto; R$ 120,00 ;Celulares;3;Utilitário Pequeno;AM;05/12/2019;Em Aberto - Atrasada;SP;12/12/2019;Em Aberto - Atrasada
+Tecnologia Antiga;03/01/2020;Aberto; R$ 480,00 ;Informática;12;Utilitário Pequeno;AM;15/01/2020;Em Aberto - Atrasada;SP;21/01/2019;Em Aberto - Atrasada
+Tecnologia Antiga;15/01/2020;Aberto; R$ 80,00 ;Celulares;2;Utilitário Pequeno;AM;15/01/2020;Em Aberto - Atrasada;SP;21/01/2019;Em Aberto - Atrasada
+Eletrônicos Magazine Suíça;06/09/2019;Encerrado; R$ 1.800,00 ;Linha Branca;430;Caminhão Baú;SP;07/09/2019;Finalizada - Em Dia;SP;07/09/2019;Finalizada - Em Dia
+Eletrônicos Magazine Suíça;15/10/2019;Encerrado; R$ 1.883,72 ;Linha Branca;450;Caminhão Baú;SP;16/10/2019;Finalizada - Em Dia;SP;16/10/2019;Finalizada - Em Dia
+Eletrônicos Magazine Suíça;20/12/2019;Aberto; R$ 1.632,56 ;Linha Branca;390;Caminhão Baú;SP;22/12/2019;Em Aberto - Atrasada;SP;22/12/2019;Em Aberto - Atrasada
+Papelaria Sem Papel;01/04/2019;Encerrado; R$ 916,13 ;Artigos de Papelaria;25;Utilitário Pequeno;SP;05/04/2019;Finalizada - Em Dia;SP;05/04/2019;Finalizada - Em Dia
+Papelaria Sem Papel;07/05/2019;Encerrado; R$ 854,40 ;Artigos de Papelaria;30;Utilitário Pequeno;SP;10/05/2019;Finalizada - Em Dia;SP;10/05/2019;Finalizada - Em Dia
+Papelaria Sem Papel;20/05/2019;Encerrado; R$ 884,22 ;Artigos de Papelaria;28;Utilitário Pequeno;SP;22/05/2019;Finalizada - Em Dia;SP;22/05/2019;Finalizada - Em Dia
+Papelaria Sem Papel;30/11/2019;Encerrado; R$ 645,89 ;Artigos de Papelaria;20;Utilitário Pequeno;SP;05/12/2019;Finalizada - Em Dia;SP;05/12/2019;Finalizada - Em Dia
+Papelaria Sem Papel;07/12/2019;Aberto; R$ 614,78 ;Artigos de Papelaria;18;Utilitário Pequeno;SP;09/12/2019;Em Aberto - Atrasada;SP;09/12/2019;Em Aberto - Atrasada
+Papelaria Sem Papel;10/01/2020;Aberto; R$ 174,56 ;Artigos de Papelaria;25;Utilitário Pequeno;SP;12/01/2020;Em Aberto - Atrasada;SP;12/01/2020;Em Aberto - Atrasada
+Papelaria Sem Papel;22/01/2020;Aberto; R$ 251,37 ;Artigos de Papelaria;36;Utilitário Pequeno;SP;24/01/2020;Em Aberto - Atrasada;SP;24/01/2020;Em Aberto - Atrasada
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
